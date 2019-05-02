@@ -6,7 +6,8 @@ A database with a curses interface. Deal with it.
 
 ## Dependencies
 
-You're gonna need cmake.
+1. CMake
+1. Vcpkg
 
 ## Setup
 
@@ -18,5 +19,5 @@ make all
 ## Run
 
 ```
-./main
+./cpp-curses-db
 ```
