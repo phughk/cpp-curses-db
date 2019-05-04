@@ -3,6 +3,13 @@ CMakeCache.txt
 CMakeFiles/
 Makefile
 cmake_install.cmake
+CTestTestfile.cmake
+
+# CMake Configure
+googletest-build
+googletest-download
+googletest-prefix
+googletest-src
 
 # Binaries
 cpp-curses-db
