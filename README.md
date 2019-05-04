@@ -16,6 +16,13 @@ cmake .
 make all
 ```
 
+## Testing
+
+```
+make gtest
+make test
+```
+
 ## Run
 
 ```

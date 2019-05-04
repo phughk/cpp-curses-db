@@ -11,6 +11,10 @@ googletest-download
 googletest-prefix
 googletest-src
 
+# Testing
+Testing
+lib
+
 # Binaries
 cpp-curses-db
 
