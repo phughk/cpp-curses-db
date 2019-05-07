@@ -28,3 +28,6 @@ add_subdirectory("${CMAKE_BINARY_DIR}/googletest-src"
 	"${CMAKE_BINARY_DIR}/googletest-build")
 
 enable_testing()
+add_executable(unit_tests unit_tests.cpp)
+target_link_libraries(unit_tests gtest gmock_main)
+add_test(NAME unit_tests COMMAND unit_tests)

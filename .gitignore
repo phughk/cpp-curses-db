@@ -14,6 +14,9 @@ googletest-src
 # Testing
 Testing
 lib
+example
+test/
+
 
 # Binaries
 cpp-curses-db

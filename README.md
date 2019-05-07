@@ -19,9 +19,11 @@ make all
 ## Testing
 
 ```
-make gtest
+make gtest # Not necessary if you ran 'make all'
 make test
 ```
+
+Output of tests is then stored in Testing/Temporary/LastTest.log
 
 ## Run
 
